@@ -1,3 +1,6 @@
+
+![Image 08-09-1445 AH at 4 28 AM](https://github.com/Ali7U/Credit-Card-App/assets/113184805/181e0adf-c00b-495b-9e01-e6202ac83d05)
+
 # Creditcard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
